@@ -1,8 +1,7 @@
 body {
-    background-image: url('biraa.jpg'), url('biraa2.jpg'), url('biraa3.jpg');
-    background-repeat: no-repeat, no-repeat, no-repeat;
-    background-position: left top, center top, right top; /* Adjust positions as needed */
-    background-size: auto, auto, auto; /* Or cover if you want images to cover */
+    background-image: url(biraa.jpg) no-repeat;
+    position: relative;
+    justify-content: center;
 }
 
 
