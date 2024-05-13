@@ -1,6 +1,8 @@
 body {
  background-image: url(biraa.jpg) no-repeat;
- /* background-size: cover; */
+ background-image: url(biraa2.jpg) no-repeat;
+ background-image: url(biraa3.jpg) no-repeat;
+ background-size: cover;
  background-position: center;
 }
 
