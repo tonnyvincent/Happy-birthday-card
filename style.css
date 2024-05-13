@@ -1,5 +1,7 @@
 body {
- background: url(biraa.jpg) no-repeat;
+ background-image: url(biraa.jpg) no-repeat;
+ background-size: cover;
+ background-position: center;
 }
 
 .body {
